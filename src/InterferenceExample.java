@@ -1,6 +1,4 @@
-import java.util.concurrent.atomic.AtomicInteger;
 
-//Класс, управляющий потоками
 class InterferenceExample {
     private static final int price_chocolate = 100;
     private static final int budget = 1000;
